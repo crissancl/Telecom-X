@@ -74,7 +74,7 @@ git init
 git add .
 git commit -m "First version: Telecom X churn EDA"
 git branch -M main
-git remote add origin https://github.com/<TU_USUARIO>/telecomx-churn.git
+git remote add origin https://github.com/crissancl/telecomx-churn.git
 git push -u origin main
 
 
@@ -82,6 +82,7 @@ git push -u origin main
 - Ejemplo: Los clientes con contrato mensual presentan un churn X% mayor que los de contrato anual.
 - Ejemplo: Soporte técnico tardío y *tenure* bajo son los principales factores asociados al churn.
 - (Reemplaza por hallazgos reales tras tu EDA.)
+
 
 
 
